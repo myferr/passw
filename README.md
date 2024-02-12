@@ -1,6 +1,6 @@
 # Passw. A Python library 🦄
 
-Passw is used for generating passwords using Python that I created! This password generator repo is more of a test of the library, I'm working on adding a bunch of cool features to Passw.
+Passw is used for generating passwords using Python that I created! I'm working on adding a bunch of cool features to Passw.
 
 Right now I have:
 * `passw.generate_password()`
