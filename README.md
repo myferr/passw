@@ -10,4 +10,4 @@ Right now I have:
 
 As functions for Passw.
 
-Full documentation and a repo of it will be released once it's done! I also aim towards publishing Passw on `pip` ==once the library is complete.==
+Full documentation and a repo of it will be released once it's done! I also aim towards publishing Passw on `pip` once the library is complete.
